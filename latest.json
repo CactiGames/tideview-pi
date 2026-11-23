@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "version": "2026.11.23.1",
-  "url": "releases/tideview-2026.11.23.1.zip",
-  "size": 280207,
-  "sha256": "d5a2530ecbf36966471a96543a172773c4589130d319989f33c6eae3bea8320c",
-  "notes": "First version that updates itself. Settings now shows the version, and has Check for updates now.",
-  "published": "2026-11-23T03:46:25Z"
+  "version": "2026.11.23.2",
+  "url": "releases/tideview-2026.11.23.2.zip",
+  "size": 280422,
+  "sha256": "a767ff847638df5443f8cbe0de42a380927a48d31198c0e92e25a2c1deda4c74",
+  "notes": "Settings > This Pi > Touch screen now warns if the touch screen keeps dropping out, which means the screen needs its own power.",
+  "published": "2026-11-23T03:53:15Z"
 }
