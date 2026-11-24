@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "version": "2026.11.24.2",
-  "url": "releases/tideview-2026.11.24.2.zip",
-  "size": 366739,
-  "sha256": "cfc66c443f9d1c9aa0e54de092e351f941a4a833ea03598c0b84d21be0188cdd",
-  "notes": "Wi-Fi settings on the TideView itself: Settings > Wi-Fi lists the networks the Pi can see and joins one, with an on-screen keyboard for the password (tap the No Wi-Fi box to go straight there). Phones get the same Wi-Fi page. TideView can also save a report to the SD card (it does this by itself after 5 minutes without Wi-Fi) or show it on a phone, and it keeps its own log across restarts. Settings go back to the forecast after 10 minutes without a touch.",
-  "published": "2026-11-24T07:54:03Z"
+  "version": "2026.11.25.1",
+  "url": "releases/tideview-2026.11.25.1.zip",
+  "size": 440260,
+  "sha256": "1142134375f32e029a2404d9dcf066e420ac3664b18797b9afa2c714a0d28327",
+  "notes": "New look: the logo at power-on instead of the Pi's start-up text, settings in short sections, Show / On tap / Hide for each part of the screen, a black screen at night (no more No Signal), and a preview and position arrows for the new phone app.",
+  "published": "2026-11-24T10:46:28Z"
 }

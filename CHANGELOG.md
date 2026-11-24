@@ -1,5 +1,9 @@
 # What's new in TideView for Raspberry Pi
 
+## 2026.11.25.1
+
+New look: the logo at power-on instead of the Pi's start-up text, settings in short sections, Show / On tap / Hide for each part of the screen, a black screen at night (no more No Signal), and a preview and position arrows for the new phone app.
+
 ## 2026.11.24.2
 
 Wi-Fi settings on the TideView itself: Settings > Wi-Fi lists the networks the Pi can see and joins one, with an on-screen keyboard for the password (tap the No Wi-Fi box to go straight there). Phones get the same Wi-Fi page. TideView can also save a report to the SD card (it does this by itself after 5 minutes without Wi-Fi) or show it on a phone, and it keeps its own log across restarts. Settings go back to the forecast after 10 minutes without a touch.
