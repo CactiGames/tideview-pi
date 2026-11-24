@@ -1,5 +1,9 @@
 # What's new in TideView for Raspberry Pi
 
+## 2026.11.24.2
+
+Wi-Fi settings on the TideView itself: Settings > Wi-Fi lists the networks the Pi can see and joins one, with an on-screen keyboard for the password (tap the No Wi-Fi box to go straight there). Phones get the same Wi-Fi page. TideView can also save a report to the SD card (it does this by itself after 5 minutes without Wi-Fi) or show it on a phone, and it keeps its own log across restarts. Settings go back to the forecast after 10 minutes without a touch.
+
 ## 2026.11.24.1
 
 Control TideView from your phone: when no phone is linked, the screen shows a QR code. Scan it with the TideView app (or your phone's camera, for a browser page) to change every setting from your phone. TideView also keeps its Wi-Fi going by itself now, and when there's no Wi-Fi the screen says so and why.

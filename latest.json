@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "version": "2026.11.24.1",
-  "url": "releases/tideview-2026.11.24.1.zip",
-  "size": 343457,
-  "sha256": "7b1c8adfd401822159abbb9482dde9244fc8449b93d18dac6f82dbe50e1e258e",
-  "notes": "Control TideView from your phone: when no phone is linked, the screen shows a QR code. Scan it with the TideView app (or your phone's camera, for a browser page) to change every setting from your phone. TideView also keeps its Wi-Fi going by itself now, and when there's no Wi-Fi the screen says so and why.",
-  "published": "2026-11-24T07:27:19Z"
+  "version": "2026.11.24.2",
+  "url": "releases/tideview-2026.11.24.2.zip",
+  "size": 366739,
+  "sha256": "cfc66c443f9d1c9aa0e54de092e351f941a4a833ea03598c0b84d21be0188cdd",
+  "notes": "Wi-Fi settings on the TideView itself: Settings > Wi-Fi lists the networks the Pi can see and joins one, with an on-screen keyboard for the password (tap the No Wi-Fi box to go straight there). Phones get the same Wi-Fi page. TideView can also save a report to the SD card (it does this by itself after 5 minutes without Wi-Fi) or show it on a phone, and it keeps its own log across restarts. Settings go back to the forecast after 10 minutes without a touch.",
+  "published": "2026-11-24T07:54:03Z"
 }
