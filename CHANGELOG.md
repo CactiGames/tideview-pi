@@ -1,5 +1,9 @@
 # What's new in TideView for Raspberry Pi
 
+## 2026.11.26.1
+
+Screen off now turns the screen's backlight off, if the screen takes that command over HDMI. New: Test screen off, and an optional power switch.
+
 ## 2026.11.25.1
 
 New look: the logo at power-on instead of the Pi's start-up text, settings in short sections, Show / On tap / Hide for each part of the screen, a black screen at night (no more No Signal), and a preview and position arrows for the new phone app.

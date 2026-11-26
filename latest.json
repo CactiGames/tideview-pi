@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "version": "2026.11.25.1",
-  "url": "releases/tideview-2026.11.25.1.zip",
-  "size": 440260,
-  "sha256": "1142134375f32e029a2404d9dcf066e420ac3664b18797b9afa2c714a0d28327",
-  "notes": "New look: the logo at power-on instead of the Pi's start-up text, settings in short sections, Show / On tap / Hide for each part of the screen, a black screen at night (no more No Signal), and a preview and position arrows for the new phone app.",
-  "published": "2026-11-24T10:46:28Z"
+  "version": "2026.11.26.1",
+  "url": "releases/tideview-2026.11.26.1.zip",
+  "size": 451378,
+  "sha256": "e392de9744dd63f6198e7cb8f2721047bfd0a1352bef83475524a5fd1394b9d9",
+  "notes": "Screen off now turns the screen's backlight off, if the screen takes that command over HDMI. New: Test screen off, and an optional power switch.",
+  "published": "2026-11-26T01:27:57Z"
 }
